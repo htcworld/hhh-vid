@@ -1,7 +1,5 @@
 {
-  "name": "nodejs-webrtc-video-stream",
-  "description": "Nodejs WebRTC video stream with EasyRTC",
-  "repository": "https://github.com/renanpupin/nodejs-webrtc-video-stream",
-  "logo": "https://raw.githubusercontent.com/renanpupin/nodejs-webrtc-video-stream/master/WebRTC_Logo.png",
-  "keywords": ["webrtc", "nodejs", "video streaming"]
+  "name": "node stream",
+  "description": "A server side element to broker connections between PeerJS clients.",
+  "website": "http://peerjs.com/"
 }
